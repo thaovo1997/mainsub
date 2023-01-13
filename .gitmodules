@@ -1,0 +1,6 @@
+[submodule "Assets/cc-network"]
+	path = Assets/cc-network
+	url = git@github.com:feenotionorg/cc-network.git
+[submodule "Assets/testSubmodule1"]
+	path = Assets/testSubmodule1
+	url = git@github.com:thaovo1997/testSubmodule1.git
